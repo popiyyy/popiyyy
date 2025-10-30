@@ -4,7 +4,7 @@
 
 ##### 📊 My Github Stat
 ![Farhan Khairullah GitHub stats](https://github-readme-stats.vercel.app/api?username=popiyyy&show_icons=true&theme=radical&align=center)
-![](https://nirzak-streak-stats.vercel.app/?user=popiyyy&theme=radical&hide_border=false&align=center)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=popiyyy&theme=radical&hide_border=false&align=center)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=popiyyy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact&align=center)
 
 
@@ -22,10 +22,4 @@
 ##### 🌐 Connect With Me
 ![www.linkedin.com/in/farhan-khairullah-23a65b2a8](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://www.instagram.com/frhan_khrllh/](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/popiyyy/popiyyy/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/popiyyy/popiyyy/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/popiyyy/popiyyy/output/pacman-contribution-graph.svg">
-</picture>
 
