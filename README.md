@@ -51,6 +51,10 @@ I enjoy building things from scratch and diving deep into how systems work.
   <img src="https://komarev.com/ghpvc/?username=popiyyy&label=Profile%20Views&color=EE5A24&style=flat" alt="profile views" />
 </p>
 
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=popiyyy&theme=discord&no-frame=false&no-bg=false&margin-w=5&column=7" alt="profile views" />
+</p>
+
 ---
 
 ## 🌐 Connect With Me
