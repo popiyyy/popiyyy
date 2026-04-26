@@ -9,7 +9,6 @@ I enjoy building things from scratch and diving deep into how systems work.
 - 💡 Interested in **AI/ML, Object Detection & Full Stack Development**
 - 🤝 Open to collaborate on **interesting projects**
 - 📫 Reach me at: **LinkedIn** *(link below)*
-
 <br clear="right"/>
 
 ---
