@@ -34,13 +34,6 @@ I enjoy building things from scratch and diving deep into how systems work.
 ---
 
 ## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=popiyyy&show_icons=true&theme=radical&hide_border=true&border_radius=12" height="165"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=popiyyy&layout=compact&theme=radical&hide_border=true&border_radius=12" height="165"/>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=popiyyy&theme=radical&hide_border=true&border_radius=12"/>
 </p>
