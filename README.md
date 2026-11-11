@@ -29,18 +29,10 @@ I enjoy building things from scratch and diving deep into how systems work.
 ---
 
 ## GitHub Analytics
-<table border="0" cellpadding="0" cellspacing="0" style="border: 0; border-collapse: collapse;">
-  <tr>
-    <td width="50%" align="center" valign="middle" style="border: 0; padding-bottom: 16px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=popiyyy&theme=radical&hide_border=true&border_radius=12" width="100%" />
-    </td>
-    <td width="50%" align="center" valign="middle" style="border: 0;">
-      <a href="https://www.readmecodegen.com/custom-github-card-generator">
-        <img src="https://www.readmecodegen.com/api/github-stats/svg?username=popiyyy&theme=radical&cardType=langs" width="100%" alt="Most Used Languages" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=popiyyy&theme=radical&hide_border=true&border_radius=12" width="49%" />
+  <a href="https://www.readmecodegen.com/custom-github-card-generator"><img align="middle" src="https://www.readmecodegen.com/api/github-stats/svg?username=popiyyy&theme=radical&cardType=langs" width="49%" alt="Most Used Languages" /></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=popiyyy&label=Profile%20Views&color=EE5A24&style=flat" alt="profile views" />
