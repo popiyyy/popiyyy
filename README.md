@@ -31,7 +31,7 @@ I enjoy building things from scratch and diving deep into how systems work.
 ## GitHub Analytics
 <p align="center">
   <img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=popiyyy&theme=radical&hide_border=true&border_radius=12" width="49%" />
-  <a href="https://www.readmecodegen.com/custom-github-card-generator"><img align="middle" src="https://www.readmecodegen.com/api/github-stats/svg?username=popiyyy&theme=radical&cardType=langs" width="49%" alt="Most Used Languages" /></a>
+  <img align="middle" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Popiyyy&layout=compact&theme=radical&hide_border=true&border_radius=12" width="40%" alt="Most Used Languages" />
 </p>
 
 <p align="center">
